@@ -1,0 +1,629 @@
+,0
+0,port alfred
+1,yatou
+2,guerrero negro
+3,ushuaia
+4,albany
+5,souillac
+6,mareeba
+7,torbay
+8,nichlaul
+9,barra do corda
+10,hithadhoo
+11,belushya guba
+12,mataura
+13,caravelas
+14,hofn
+15,new norfolk
+16,caramay
+17,sitka
+18,barrow
+19,kapaa
+20,qaanaaq
+21,arraial do cabo
+22,lapua
+23,hobart
+24,pictou
+25,bubaque
+26,bentiu
+27,narsaq
+28,punta arenas
+29,werder
+30,illoqqortoormiut
+31,tura
+32,nador
+33,buqayq
+34,cape town
+35,kaitangata
+36,ucluelet
+37,hutang
+38,rikitea
+39,taolanaro
+40,castro
+41,jamestown
+42,rocha
+43,busselton
+44,verkhoyansk
+45,alta floresta
+46,kodiak
+47,dingle
+48,mar del plata
+49,batagay-alyta
+50,hermanus
+51,beringovskiy
+52,vaini
+53,north platte
+54,de panne
+55,olafsvik
+56,goderich
+57,yellowknife
+58,la grande
+59,lata
+60,longonjo
+61,butaritari
+62,makakilo city
+63,thompson
+64,bethel
+65,mys shmidta
+66,coahuayana
+67,diego de almagro
+68,puerto ayora
+69,bluff
+70,harwich
+71,moville
+72,maltahohe
+73,ugoofaaru
+74,fortuna
+75,bredasdorp
+76,masuguru
+77,buraydah
+78,longyearbyen
+79,coite do noia
+80,richards bay
+81,tabukiniberu
+82,balkanabat
+83,east london
+84,sao filipe
+85,samalaeulu
+86,lebowakgomo
+87,stoyba
+88,lebu
+89,cumberland
+90,saint-philippe
+91,pevek
+92,mamallapuram
+93,victoria
+94,west helena
+95,tasiilaq
+96,haines junction
+97,bonavista
+98,gorom-gorom
+99,filingue
+100,alice springs
+101,norman wells
+102,wageningen
+103,iqaluit
+104,codrington
+105,hilo
+106,kuryk
+107,sentyabrskiy
+108,voh
+109,georgetown
+110,olney
+111,atuona
+112,mahebourg
+113,ancud
+114,cherskiy
+115,saldanha
+116,nanortalik
+117,tabiauea
+118,saskylakh
+119,chaa-khol
+120,alofi
+121,beihai
+122,port hawkesbury
+123,irawan
+124,shelburne
+125,nikolskoye
+126,cabedelo
+127,puerto narino
+128,vostok
+129,hasaki
+130,gat
+131,erenhot
+132,kavieng
+133,nizhneyansk
+134,port elizabeth
+135,sao pedro do sul
+136,tulsipur
+137,beachwood
+138,upernavik
+139,ivankiv
+140,buala
+141,broome
+142,vestmannaeyjar
+143,cravo norte
+144,ribeira grande
+145,namibe
+146,uribia
+147,tuktoyaktuk
+148,palmer
+149,chuy
+150,bengkulu
+151,omboue
+152,shu
+153,varadero
+154,tsihombe
+155,emirdag
+156,taoudenni
+157,nouadhibou
+158,malindi
+159,meadow lake
+160,havre-saint-pierre
+161,san policarpo
+162,merrill
+163,burley
+164,asau
+165,toliary
+166,luderitz
+167,chokurdakh
+168,vardo
+169,shimoda
+170,gonzaga
+171,carnarvon
+172,kamaishi
+173,pleshanovo
+174,dimovo
+175,ambam
+176,sobradinho
+177,argentan
+178,provideniya
+179,ridgeland
+180,jaguaruna
+181,khalkhal
+182,raga
+183,fukue
+184,srednekolymsk
+185,jaguaribe
+186,mercedes
+187,lavrentiya
+188,katsuura
+189,bandarban
+190,marcona
+191,phalaborwa
+192,karamea
+193,tessalit
+194,cullinan
+195,vila velha
+196,vigeland
+197,prince george
+198,novobiryusinskiy
+199,fairbanks
+200,cisneros
+201,angul
+202,iskateley
+203,esperance
+204,agde
+205,shache
+206,perth
+207,alpena
+208,ye
+209,tommot
+210,henties bay
+211,fasa
+212,komsomolets
+213,lorengau
+214,hangu
+215,nanfeng
+216,airai
+217,ahuimanu
+218,aklavik
+219,modakeke
+220,lakes entrance
+221,westport
+222,amderma
+223,salalah
+224,klaksvik
+225,solok
+226,honiara
+227,whitehorse
+228,egvekinot
+229,auki
+230,abai
+231,wau
+232,huarmey
+233,jinji
+234,lasa
+235,marica
+236,deputatskiy
+237,rio gallegos
+238,kuche
+239,khatanga
+240,leningradskiy
+241,cockburn town
+242,vestmanna
+243,pangnirtung
+244,zhanaozen
+245,ilulissat
+246,faanui
+247,santa marta
+248,clearwater
+249,port hardy
+250,chagda
+251,pisco
+252,northam
+253,baoqing
+254,sao jose da coroa grande
+255,vila
+256,thongwa
+257,paamiut
+258,telsiai
+259,itirucu
+260,guiratinga
+261,taksimo
+262,belyy yar
+263,te anau
+264,dehui
+265,hamilton
+266,dikson
+267,ostrovnoy
+268,rochegda
+269,meulaboh
+270,tautira
+271,msanga
+272,waingapu
+273,navalmoral de la mata
+274,nuuk
+275,orumiyeh
+276,saint-georges
+277,roald
+278,port pirie
+279,ambon
+280,iwanai
+281,yaval
+282,tiksi
+283,villa de cura
+284,laguna
+285,montepuez
+286,bathsheba
+287,abu jubayhah
+288,qaqortoq
+289,kruisfontein
+290,akyab
+291,mehamn
+292,coihaique
+293,bolobo
+294,komsomolskiy
+295,sinnamary
+296,tabialan
+297,angoram
+298,hualmay
+299,taraz
+300,malakal
+301,prince rupert
+302,sinegorye
+303,naqadeh
+304,hailar
+305,ushtobe
+306,imbituba
+307,bayji
+308,santa cruz
+309,balikpapan
+310,pacific grove
+311,aswan
+312,homer
+313,cidreira
+314,kodino
+315,normandin
+316,moranbah
+317,kiunga
+318,tumannyy
+319,satitoa
+320,avarua
+321,omsukchan
+322,hervey bay
+323,kadaya
+324,barisal
+325,ambulu
+326,pitimbu
+327,tasbuget
+328,figeac
+329,dukat
+330,central point
+331,toropets
+332,ponta do sol
+333,okhotsk
+334,grand river south east
+335,seoul
+336,new ulm
+337,necochea
+338,wad rawah
+339,irtyshskiy
+340,sabang
+341,aguimes
+342,devon
+343,barentsburg
+344,isangel
+345,lewistown
+346,yima
+347,uch
+348,hami
+349,namatanai
+350,sohag
+351,san juan
+352,santo antonio do ica
+353,maniitsoq
+354,attawapiskat
+355,cayenne
+356,porbandar
+357,tual
+358,severo-kurilsk
+359,clyde river
+360,sechura
+361,solnechnyy
+362,bandar-e torkaman
+363,camacupa
+364,yambio
+365,bauru
+366,valdivia
+367,los llanos de aridane
+368,townsville
+369,lokachi
+370,benjamin aceval
+371,talaya
+372,cam pha
+373,limbe
+374,oranjemund
+375,saleaula
+376,tabuk
+377,tolaga bay
+378,paradwip
+379,alyangula
+380,halifax
+381,namagiripettai
+382,oranjestad
+383,bataraza
+384,constitucion
+385,rungata
+386,diffa
+387,broken hill
+388,emet
+389,quatre cocos
+390,lamesa
+391,touros
+392,sept-iles
+393,la fleche
+394,krasnoselkup
+395,sumbawa
+396,luebo
+397,boa vista
+398,whyalla
+399,tuy hoa
+400,praya
+401,izola
+402,padang
+403,kholodnyy
+404,yenagoa
+405,houston
+406,taonan
+407,kavaratti
+408,mahibadhoo
+409,shingu
+410,tomatlan
+411,belogorsk
+412,kadykchan
+413,kinanah
+414,wagar
+415,puerto del rosario
+416,bargal
+417,talnakh
+418,shanghai
+419,kahului
+420,rawson
+421,nurota
+422,jomalig
+423,surt
+424,hammerfest
+425,anamur
+426,libertador general san martin
+427,arakhnaion
+428,agadir
+429,portland
+430,labuhan
+431,pouembout
+432,port-gentil
+433,dourbali
+434,canico
+435,marystown
+436,fort nelson
+437,miyako
+438,bud
+439,twin falls
+440,aktash
+441,port macquarie
+442,cah ab
+443,anadyr
+444,lethem
+445,boende
+446,tombouctou
+447,flinders
+448,san patricio
+449,svarstad
+450,umzimvubu
+451,petropavlovsk-kamchatskiy
+452,salta
+453,shieli
+454,sapao
+455,salamiyah
+456,cairns
+457,jabiru
+458,kismayo
+459,bolungarvik
+460,ardakan
+461,rongcheng
+462,kathu
+463,riverton
+464,gali
+465,andenes
+466,anchorage
+467,yanam
+468,paita
+469,lahaina
+470,rawannawi
+471,yumen
+472,port blair
+473,ginda
+474,bilibino
+475,balabac
+476,capitan bado
+477,linxia
+478,conceicao do araguaia
+479,lakhdenpokhya
+480,dwarka
+481,adrar
+482,price
+483,kajaani
+484,chepareria
+485,vaitupu
+486,nemuro
+487,novopokrovka
+488,preobrazheniye
+489,kampene
+490,brae
+491,muros
+492,tupiza
+493,ngukurr
+494,aconibe
+495,paraiso
+496,sao joao dos patos
+497,pafos
+498,tamworth
+499,little current
+500,tuatapere
+501,kharan
+502,cap-aux-meules
+503,qasigiannguit
+504,golynki
+505,saint george
+506,diamantino
+507,trelew
+508,warrington
+509,husavik
+510,montlucon
+511,orapa
+512,hobyo
+513,mokhsogollokh
+514,marsaxlokk
+515,avera
+516,wilmington
+517,kutum
+518,leninogorsk
+519,puerto carreno
+520,saint-augustin
+521,vila franca do campo
+522,shalya
+523,redlands
+524,radovis
+525,birecik
+526,rio grande
+527,griffith
+528,nkoteng
+529,cabo san lucas
+530,tarudant
+531,kuandian
+532,creel
+533,atlantic city
+534,zlatoustovsk
+535,casper
+536,tiznit
+537,noumea
+538,warqla
+539,el alto
+540,sorong
+541,berlevag
+542,boyolangu
+543,liku
+544,pilar
+545,sabinopolis
+546,kidal
+547,doha
+548,marsh harbour
+549,yomitan
+550,lakatoro
+551,onda
+552,shenjiamen
+553,port lincoln
+554,beruni
+555,chapais
+556,jibuti
+557,kizilskoye
+558,bolshegrivskoye
+559,mullaitivu
+560,nabire
+561,ubud
+562,jieshi
+563,eureka
+564,nkhata bay
+565,nyurba
+566,rio pardo
+567,matale
+568,calatayud
+569,aykhal
+570,acarau
+571,kriel
+572,dunedin
+573,caucaia
+574,dunda
+575,kollam
+576,arcata
+577,thinadhoo
+578,lagoa
+579,conakry
+580,samusu
+581,marawi
+582,novobirilyussy
+583,erzin
+584,lichinga
+585,mrirt
+586,rize
+587,byron bay
+588,carutapera
+589,bambous virieux
+590,esna
+591,anton lizardo
+592,haicheng
+593,kamina
+594,faya
+595,tadine
+596,aban
+597,floro
+598,katobu
+599,lompoc
+600,mount gambier
+601,dudinka
+602,yuzhno-yeniseyskiy
+603,tromso
+604,medicine hat
+605,chacaltianguis
+606,nyandoma
+607,tapes
+608,jacareacanga
+609,biloela
+610,dawson creek
+611,shitanjing
+612,hulan
+613,harper
+614,ylivieska
+615,ler
+616,coolum beach
+617,margate
+618,zhicheng
+619,le port
+620,ambilobe
+621,gelibolu
+622,nguiu
+623,panuco
+624,antoniny
+625,ust-maya
+626,itagi
+627,sioux lookout
